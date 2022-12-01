@@ -1,3 +1,3 @@
 # rdmiltyIBMcourse
 Sandbox for IBM course on Coursera
-This line if following directions for learning about committing changes.
+This line is following directions for learning about committing changes.
